@@ -28,4 +28,3 @@ elif searchOrAdd.lower() == "search":
 
 else:
     print("No valid option was selected.")
-    #test
